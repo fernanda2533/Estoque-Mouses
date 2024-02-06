@@ -77,6 +77,6 @@ int main(){
     printf("3- Necessita de troca de cabo ou conector\t\t%d \t%.2f%%\n", contador_sit_3, p3);
     printf("4- Quebrado ou inutilizado \t\t\t%d \t%.2f%%\n", contador_sit_4, p4);
     
-
+// aff //
 return 0;
 } 
