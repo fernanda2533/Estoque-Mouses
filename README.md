@@ -1,6 +1,6 @@
 # Estoque-Mouses
 Exercício de um estoque de mouses
- Exercício// 
+
  A tarefa é realizar o teste de cerca de 200 mouses que se encontram em uma empresa 
  e, a partir disso, fazer um levantamento do estado de cada um deles. Requisitou-se então 
  que fosse feito um programa para registrar este levantamento. 
